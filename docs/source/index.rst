@@ -1,9 +1,7 @@
 
 
-PEA blau: projecte educatiu de l'AEIG Sant Narcís
-=================================================
-
-Introducció blabla bla bla bla etc etc Guillem el millor 2
+PEA Blau: El projecte educatiu de l'Agrupament Escolta i Guia Sant Narcís
+========================================================================
 
 .. toctree::
    :maxdepth: 2
@@ -13,4 +11,3 @@ Introducció blabla bla bla bla etc etc Guillem el millor 2
    quees
 
 
-s
