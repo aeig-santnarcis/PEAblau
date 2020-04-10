@@ -50,7 +50,7 @@ templates_path = ['ntemplates']
 #
 # source_suffix = ['.rst', '.md']
 source_suffix = '.rst'
-source_encoding = 'iso-8859-15'
+source_encoding = 'utf-8'
 
 # The master toctree document.
 master_doc = 'index'
